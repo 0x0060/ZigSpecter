@@ -1,6 +1,3 @@
-
-# Zig COFF Loader
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -17,6 +14,7 @@
 - [Main Entry Point](#main-entry-point)
 - [Notes and Limitations](#notes-and-limitations)
 - [Contributing](#contributing)
+- [Contact](#contact)
 - [License](#license)
 
 
@@ -58,8 +56,8 @@ Each component has a specific role, which allows for targeted testing, easy main
 
 1. **Clone the Repository**:
 ```
-   git clone https://github.com/0x0060/ZigSpecter.git
-   cd ZigSpecter
+git clone https://github.com/0x0060/ZigSpecter.git
+cd ZigSpecter
 ```
 
 
